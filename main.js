@@ -2,6 +2,10 @@
 
 console.log("Hello con sâu");
 
+function themNguoiDung(){
+    console.log("gaugau themNguoiDung");
+};
+
 // hạn chế xài alert vì nó sẽ bị dừng lại
 // alert("Hello con sâu");
 
